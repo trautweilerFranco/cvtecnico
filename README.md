@@ -10,7 +10,7 @@ Se trata de una página web responsiva donde presento mi perfil profesional, mi 
 
 - **Astro:** Framework utilizado como generador de sitio estático (SSG) para modularizar el código manteniendo un output final sin JavaScript innecesario.
 - **Tailwind CSS:** Framework de utilidades para generar el archivo CSS externo y garantizar el diseño responsivo.
-- **HTML5:** Estructura semántica (`header`, `main`, `section`, `article`).
+- **HTML5:** Estructura semántica (`header`, `main`, `section`, `article`, `footer`).
 
 ## Funcionalidades
 
